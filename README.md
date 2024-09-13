@@ -10,17 +10,19 @@ Interactive split-view interface for code input and live output
 Syntax highlighting for a better coding experience
 Easy-to-use, responsive web interface
 Auto-refresh to display results without requiring page reloads
+
 Technologies Used
 React (Frontend Framework)
 Vite (Bundler and Development Environment)
 HTML/CSS/JavaScript (Core languages for web development)
 Codemirror/Monaco Editor (Optional: for code input with syntax highlighting)
+
 Installation
 Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/YourUsername/Live-Code-Editor.git
+git clone https://github.com/sanapsagar2002/Live-Code-Editor.git
 cd Live-Code-Editor
 Install the required dependencies:
 
@@ -38,6 +40,7 @@ Usage
 Type your HTML, CSS, and JavaScript code in their respective sections.
 The output will be displayed live in the preview section as you write.
 Use the editor to test snippets, learn web development, or prototype projects quickly.
+
 Project Structure
 src/: Contains all source files for the editor
 App.jsx: Main React component handling the editor logic
